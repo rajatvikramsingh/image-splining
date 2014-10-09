@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "image-splining", "image-splining\image-splining.csproj", "{DBD7A927-69F0-4668-8F7A-8ADB0C79D1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD7A927-69F0-4668-8F7A-8ADB0C79D1DF}.Debug|x86.ActiveCfg = Debug|x86
+		{DBD7A927-69F0-4668-8F7A-8ADB0C79D1DF}.Debug|x86.Build.0 = Debug|x86
+		{DBD7A927-69F0-4668-8F7A-8ADB0C79D1DF}.Release|x86.ActiveCfg = Release|x86
+		{DBD7A927-69F0-4668-8F7A-8ADB0C79D1DF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

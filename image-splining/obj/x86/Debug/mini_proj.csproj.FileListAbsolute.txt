@@ -1,0 +1,50 @@
+C:\Users\Charvi\Downloads\mini_proj\mini_proj\mini_proj\obj\x86\Debug\mini_proj.exe
+C:\Users\Charvi\Downloads\mini_proj\mini_proj\mini_proj\obj\x86\Debug\mini_proj.pdb
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\mini_proj.exe
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\mini_proj.pdb
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\mini_proj.Form1.resources
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\mini_proj.Properties.Resources.resources
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\mini_proj.exe
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\mini_proj.pdb
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.CV.DebuggerVisualizers.dll
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.CV.dll
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.Util.dll
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\ZedGraph.dll
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\zlib.net.dll
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.CV.xml
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Charvi\Downloads\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.Util.xml
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\mini_proj.exe
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\mini_proj.pdb
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\bin\Debug\mini_proj.exe
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\bin\Debug\mini_proj.pdb
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.CV.xml
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\bin\Debug\Emgu.Util.xml
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\mini_proj.Form1.resources
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\mini_proj.Properties.Resources.resources
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rajat\Study\Sem 5\Image Analysis\miniproject_bgr\miniproject_bgr\mini_proj\mini_proj\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\obj\x86\Debug\mini_proj.exe
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\obj\x86\Debug\mini_proj.pdb
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\bin\Debug\mini_proj.exe
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\bin\Debug\mini_proj.pdb
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\bin\Debug\Emgu.CV.xml
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\bin\Debug\Emgu.CV.ML.xml
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\bin\Debug\Emgu.CV.UI.xml
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\bin\Debug\Emgu.Util.xml
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\obj\x86\Debug\mini_proj.Form1.resources
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\obj\x86\Debug\mini_proj.Properties.Resources.resources
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Study\Sem 5\Image Analysis\Submitted\mini_proj\mini_proj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rajat\Study\Sem 5\mini_proj\mini_proj\obj\x86\Debug\mini_proj.exe
+C:\Users\Rajat\Study\Sem 5\mini_proj\mini_proj\obj\x86\Debug\mini_proj.pdb
